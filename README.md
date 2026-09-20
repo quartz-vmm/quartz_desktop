@@ -10,7 +10,7 @@
 ![License](https://img.shields.io/github/license/quartz-vmm/desktop?style=plastic&color=blue)
 ![Contributing](https://img.shields.io/badge/contributing-Closed-blue?style=plastic)
 
-Desktop application for managing macOS VMs.
+Desktop app for managing VMs running macOS as a guest.
 
 ## 🚀 Features
 
