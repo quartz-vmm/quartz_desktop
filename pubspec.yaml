@@ -9,8 +9,8 @@ issue_tracker: https://github.com/quartz-vmm/desktop/issues
 version: 0.1.0+1
 
 environment:
-  sdk: ^3.13.4
-  flutter: ^3.47.5
+  sdk: ^3.13.5
+  flutter: ^3.47.7
 
 dependencies:
   flutter:
