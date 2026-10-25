@@ -1,9 +1,12 @@
 {
   "cSpell.words": [
+    "buildlog",
     "josereia",
     "linux",
     "pubspec",
-    "softyesti"
+    "softyesti",
+    "swiftpm",
+    "Symbolication"
   ],
-  "dart.flutterSdkPath": ".fvm/versions/3.47.7"
+  "dart.flutterSdkPath": ".fvm/versions/3.47.8"
 }
